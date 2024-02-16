@@ -2,11 +2,11 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for.
+As a newly hired Jr. Software Engineer my manager assigned me a task to develop Backend application using NodeJS, Express, GraphQL and MongoDB. 
 
 ## Description
 
-Provide a more detailed introduction to the project including its features, purpose, and usage. Explain what makes your project stand out.
+a task to develop Backend application using NodeJS, Express, GraphQL and MongoDB.
 
 ## Prerequisites
 
